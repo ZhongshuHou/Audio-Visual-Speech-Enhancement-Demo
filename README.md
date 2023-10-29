@@ -11,3 +11,5 @@ https://github.com/ZhongshuHou/Audio-Visual-Speech-Enhancement-Demo/assets/10324
 
 https://github.com/ZhongshuHou/Audio-Visual-Speech-Enhancement-Demo/assets/103247057/dd5a75f3-29d9-4fd0-8154-ab9c8ebf0e3a
 
+https://github.com/ZhongshuHou/Audio-Visual-Speech-Enhancement-Demo/assets/103247057/09fc4c89-0374-46d6-9df5-775a4cc9bb7e
+
