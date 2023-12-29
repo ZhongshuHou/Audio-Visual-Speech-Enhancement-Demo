@@ -3,6 +3,7 @@ This is a demo page of current ongoing audio-visual speech enhancement (AVSE) pr
 
 This is a latest demo:
 
+https://github.com/ZhongshuHou/Audio-Visual-Speech-Enhancement-Demo/assets/103247057/96938792-71b8-4e03-b173-75d7cd6ad9eb
 
 
 Region of interest of lip movements
