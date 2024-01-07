@@ -5,6 +5,7 @@ This is a latest demo:
 
 https://github.com/ZhongshuHou/Audio-Visual-Speech-Enhancement-Demo/assets/103247057/96938792-71b8-4e03-b173-75d7cd6ad9eb
 
+https://github.com/ZhongshuHou/Audio-Visual-Speech-Enhancement-Demo/assets/103247057/e14d3694-a701-4770-8f97-6e33e73a44ca
 
 Region of interest of lip movements
 
