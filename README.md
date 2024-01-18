@@ -1,5 +1,5 @@
 # Audio-Visual-Speech-Enhancement-Demo
-This is a demo page of current ongoing audio-visual speech enhancement (AVSE) project. The visual information of lip movements is utilized to extract the target speech. Our proposed model ranks first in the ICASSP 2024 Signal Processing Grand Challenge: Multimodal Information based Speech Processing (MISP) 2023 Challenge.
+This is a demo page of current ongoing audio-visual speech enhancement (AVSE) project. The visual information of lip movements is utilized to extract the target speech. Our proposed model ranks first in the ICASSP 2024 Signal Processing Grand Challenge: Multimodal Information based Speech Processing (MISP) 2023 Challenge, where the paper can be found through https://mispchallenge.github.io/mispchallenge2023/papers/task1/NJU_AALab.pdf.
 
 This is a latest demo:
 
